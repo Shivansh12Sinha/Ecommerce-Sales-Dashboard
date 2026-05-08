@@ -1,3 +1,6 @@
+<img width="1918" height="1078" alt="dashboard png" src="https://github.com/user-attachments/assets/770baaf9-cc8e-4ee5-90f4-86461c76dc22" />
+
+
 # Ecommerce-Sales-Dashboard
 Interactive Tableau dashboard analyzing e-commerce sales, profits, customer trends, and regional performance.
 # E-Commerce Sales Dashboard
