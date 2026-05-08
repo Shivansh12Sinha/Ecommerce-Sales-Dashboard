@@ -1,0 +1,9 @@
+1. Technology category generated the highest sales revenue.
+
+2. Western region contributed the maximum profit.
+
+3. Sales showed fluctuations across months indicating seasonal trends.
+
+4. A small group of customers contributed significantly to total sales.
+
+5. Some categories had high sales but comparatively lower profitability.
